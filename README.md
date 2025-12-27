@@ -23,7 +23,7 @@ This is an example of superscript x<sup>2</sup>
 
 This is an example of subscript H<sub>2</sub>O
 
-Emoji Time
+Emoji Time find a new Emoji
 
 😊  🪄
 
