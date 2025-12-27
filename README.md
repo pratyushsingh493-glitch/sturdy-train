@@ -121,4 +121,4 @@ you cav use:
 
 * [ ] random
 
-- [ ] random
+- [x] random
